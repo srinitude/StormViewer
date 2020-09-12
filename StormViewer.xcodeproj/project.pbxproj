@@ -23,6 +23,7 @@
 		9D50D744250D0E5C00FAC3AD /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D50D73A250D0E5C00FAC3AD /* nssl0046.jpg */; };
 		9D50D745250D0E5C00FAC3AD /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D50D73B250D0E5C00FAC3AD /* nssl0051.jpg */; };
 		9D50D746250D0E5C00FAC3AD /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D50D73C250D0E5C00FAC3AD /* nssl0041.jpg */; };
+		9D50D748250D14B300FAC3AD /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D50D747250D14B300FAC3AD /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		9D50D73A250D0E5C00FAC3AD /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
 		9D50D73B250D0E5C00FAC3AD /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
 		9D50D73C250D0E5C00FAC3AD /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		9D50D747250D14B300FAC3AD /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				9D50D71E250D0B1400FAC3AD /* AppDelegate.swift */,
 				9D50D720250D0B1400FAC3AD /* SceneDelegate.swift */,
 				9D50D722250D0B1400FAC3AD /* ViewController.swift */,
+				9D50D747250D14B300FAC3AD /* DetailViewController.swift */,
 				9D50D724250D0B1400FAC3AD /* Main.storyboard */,
 				9D50D727250D0B1600FAC3AD /* Assets.xcassets */,
 				9D50D729250D0B1600FAC3AD /* LaunchScreen.storyboard */,
@@ -189,6 +192,7 @@
 				9D50D723250D0B1400FAC3AD /* ViewController.swift in Sources */,
 				9D50D71F250D0B1400FAC3AD /* AppDelegate.swift in Sources */,
 				9D50D721250D0B1400FAC3AD /* SceneDelegate.swift in Sources */,
+				9D50D748250D14B300FAC3AD /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
